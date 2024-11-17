@@ -138,7 +138,14 @@ details p {
 }
 
 
-
+code {
+    /* background-color: rgba(46, 204, 113, 0.2); Светло-зеленый фон с прозрачностью */
+    color: #27ae60; /* Зеленый цвет текста */
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: 'Fira Code', monospace; /* Используйте моноширинный шрифт для кода */
+    font-size: 1.05em; /* Немного увеличенный размер шрифта для лучшей читаемости */
+}
 
 
 /* Подключение шрифтов через Google Fonts */
